@@ -2,7 +2,7 @@
 
 > ## Repository abandoned 2019-12-31
 >
-> This repository has moved to laminas/laminas-recaptcha.
+> This repository has moved to [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha).
 
 [![Build Status](https://secure.travis-ci.org/zendframework/ZendService_ReCaptcha.svg?branch=master)](https://secure.travis-ci.org/zendframework/ZendService_ReCaptcha)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/ZendService_ReCaptcha/badge.svg?branch=master)](https://coveralls.io/github/zendframework/ZendService_ReCaptcha?branch=master)
